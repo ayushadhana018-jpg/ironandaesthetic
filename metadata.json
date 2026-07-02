@@ -1,0 +1,6 @@
+{
+  "name": "Iron & Aesthetic",
+  "description": "Premium science-based lifestyle & physical sculpting system, delivering elite macro calculations, hypertrophy training, and bioavailable nutrition plans with a luxury, high-end software aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
